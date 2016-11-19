@@ -7,5 +7,19 @@
 #### how to run
 
 ````
-./gradlew clean build && java -jar build/libs/ui-gen-0.1.0.jar
+cd uid-gen
+````
 
+##### windows
+
+````
+gradlew.bat build
+java -jar build\libs\ui-gen-0.1.0.jar
+````
+
+##### *nix or mac os
+
+````
+./gradlew build 
+java -jar build/libs/ui-gen-0.1.0.jar
+````
