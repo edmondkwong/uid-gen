@@ -1,7 +1,7 @@
 ### UID generator exercise
 
 #### prerequisites
-* java-1.8
+* jdk-1.8
 * gradle-2.13
 
 #### how to run
